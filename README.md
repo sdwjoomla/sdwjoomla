@@ -1,7 +1,10 @@
 ## Hi there 👋
-[https://img.shields.io/badge/LinkedIn-blue](https://www.linkedin.com/company/danico-digital)
+
+<!--  [https://img.shields.io/badge/LinkedIn-blue](https://www.linkedin.com/company/danico-digital) -->
 
 [![An image of @sdwjoomla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdwjoomla)](https://holopin.io/@sdwjoomla)
+
+[Danico Digital](https://danicodigital.com) | [LinkedIn](https://www.linkedin.com/company/danico-digital)) 
 <!--
 **sdwjoomla/sdwjoomla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
